@@ -10,4 +10,10 @@ Parent data source: GeoNames ( www.geonames.org )
 
 Note: Data Accuracy cannot be guaranteed. Please use should be used at your own risk...
 
+------------------------------------
+Found a few useful links:
+* JSON list of valid and invalid US ZIP codes - https://gist.github.com/dryan/7486408
+* Zipcode lookup node module - https://github.com/davglass/zipcodes
+
+
 Thanks
